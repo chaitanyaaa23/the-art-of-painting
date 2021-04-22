@@ -1,4 +1,9 @@
-@media( min-width:400px  min-height:400px min-padding-top:200px min-padding-bottom:100px){
+@media( min-width:400px
+ min-height:400px
+ min-padding-top:200px 
+ min-padding-bottom:100px
+ 
+){
  #background{
  background-image:url("https://mymodernmet.com/wp/wp-content/uploads/2017/12/online-painting-tutorial.jpg");
   /*max-width:500px;
@@ -81,25 +86,25 @@ h3{
     font-size: 15px;
 }*/
 #class1{
-    width:20%;
+    min-width:20%;
     float:left;
 }
 #class2{
     float:left; 
                 
-                width:30%;
-                height:280px;
+               min-width:30%;
+               min-height:280px;
                 /*margin-left:100px;*/
 }
 #class3{
     float:right;
-    width:30%
+    min-width:30%
 }
 }
 #class4{
     float:right;
-width:40%;
-height:280px;
+min-width:40%;
+min-height:280px;
 margin-right:20px;
 }
 ol{
