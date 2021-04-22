@@ -108,7 +108,7 @@ ol{
     margin-left:30px;
     
 }
-@media screen and ( max-width:9910px){
+@media screen and ( max-width:991px){
     #background{
         background-image:url("https://mymodernmet.com/wp/wp-content/uploads/2017/12/online-painting-tutorial.jpg");
         background-repeat:no-repeat;
@@ -116,7 +116,7 @@ ol{
 }
 h1{
     text-align: center;
-    padding-top:100px;
+    padding-top:200px;
     color:black;
     font-family:'Times New Roman', Times, serif;
     font-size:20px;
@@ -124,7 +124,7 @@ h1{
 }
 h5{
     text-align:center;
-    padding-bottom:100px;
+    padding-bottom:200px;
     font-size:small
 }
 #intro{
