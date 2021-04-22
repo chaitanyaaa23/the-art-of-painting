@@ -146,8 +146,8 @@ h5{
   .iconDetails {
     margin-left:2%;
    float:right; 
-   height:100px;
-   width:100px; 
+   height:auto;
+   width:auto; 
    } 
    .container2 {
     width:100%;
