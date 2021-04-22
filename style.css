@@ -144,23 +144,24 @@ h5{
       color:olive
   }
   .iconDetails {
-    margin-left:0,5%;
+    margin-left:0.5%;
    float:right; 
    height:20px;
    width:20px;
  
    } 
    .container2 {
-    width:100%;
+    width:auto;
     height:auto;
     padding-right:50px;
     margin-right:50px;
       font-size:2px;
+    margin-left:50px;
 }
 .heads{
     /*text-align: center;*/
     font-weight:50;
-    font-size:15px;
+    font-size:10px;
     color:maroon
 }
 a:link{
