@@ -133,6 +133,9 @@ h5{
  }*/
 #intro{
     text-align: center;
+ }
+ #intro2{
+  float:right;
 }
 .center {
     display: block;
