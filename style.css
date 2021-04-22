@@ -178,9 +178,9 @@ height:20%;
     width:auto;
     height:auto;
     padding-right:50px;
-    margin-right:50px;
+    /*margin-right:50px;*/
       font-size:2px;
-    margin-left:50px;
+    /*margin-left:50px;*/
 }
 .heads{
     /*text-align: center;*/
@@ -217,7 +217,7 @@ h3{
     font-size: 15px;
 }*/
 #class1{
-    width:15%;
+    width:5%;
     float:left;
 }
 #class2{
