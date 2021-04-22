@@ -222,7 +222,7 @@ h3{
                 
                 width:10px;
                 height:280px;
-                /*margin-left:100px;*/
+                margin-left:10px;
 }
 
 
@@ -230,7 +230,7 @@ h3{
     float:right;
 width:30px;
 height:280px;
-margin-right:8px;
+/*margin-right:8px;*/
 }
 ol{
     list-style-type: none;
