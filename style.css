@@ -144,7 +144,7 @@ h5{
   float:left;
 }
  .screen{
-  margin-left:50px;
+  margin-left:10px;
  }
  .screen2{
   margin-left:50px;
@@ -180,8 +180,8 @@ height:20%;
 }
 .heads{
     /*text-align: center;*/
-    font-weight:50;
-    font-size:10px;
+    font-weight:100;
+    font-size:25px;
     color:maroon;
      float:left;
 }
