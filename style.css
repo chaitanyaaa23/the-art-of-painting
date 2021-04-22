@@ -1,4 +1,7 @@
-@media( min-width:400px){
+@media( max-width:800px
+ max-height:400px
+ max-padding-top:500px
+){
  #background{
  background-image:url("https://mymodernmet.com/wp/wp-content/uploads/2017/12/online-painting-tutorial.jpg");
   /*max-width:500px;
