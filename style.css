@@ -8,7 +8,7 @@
 }
 h1{
     text-align: center;
-    padding-top:400px;
+    max-padding-top:400px;
     color:black;
     font-family:'Times New Roman', Times, serif;
     font-size:80px;
@@ -16,7 +16,7 @@ h1{
 }
 h5{
     text-align:center;
-    padding-bottom:200px;
+    max-padding-bottom:200px;
     font-size:small
 }
 #intro{
