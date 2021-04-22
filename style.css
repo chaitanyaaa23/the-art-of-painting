@@ -8,20 +8,20 @@
     #primary { width:100%; }
     #secondary { width:100%; margin:0; border:none; }
 }
-@media( max-width:800px;
+/*@media( max-width:800px;
  max-height:400px;
  max-padding-top:500px;
  max-padding-bottom:500px;
 max-margin-left:200px;
 max-margin-right:200px;
-){
+){*/
  #background{
  background-image:url("https://mymodernmet.com/wp/wp-content/uploads/2017/12/online-painting-tutorial.jpg");
   /*max-width:500px;
   min-height:500px;*/
  background-repeat:no-repeat;
  background-size:100%;
-  /*width:100%;*/
+  
 }
 h1{
     text-align: center;
