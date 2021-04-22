@@ -124,7 +124,7 @@ h1{
 }
 h5{
     text-align:center;
-    padding-bottom:200px;
+    padding-bottom:400px;
     font-size:small
 }
 #intro{
@@ -146,8 +146,8 @@ h5{
   .iconDetails {
     margin-left:2%;
    float:right; 
-   height:auto;
-   width:auto; 
+   height:150px;
+   width:150px; 
    } 
    .container2 {
     width:100%;
@@ -195,14 +195,12 @@ h3{
 #class2{
     float:left; 
                 
-                width:20%;
+                width:30%;
                 height:280px;
                 /*margin-left:100px;*/
 }
-#class3{
-    float:right;
-    width:20%
-}
+
+
 #class4{
     float:right;
 width:30%;
