@@ -145,11 +145,11 @@ h5{
   padding-top:2px;
   margin-left:2px;
 }
- .screen{
+/* .screen{
   margin-left:10px;
  }
 .screen2{
-  margin-left:10px;
+  margin-left:10px;*/
  
 .center {
     display: block;
@@ -165,13 +165,13 @@ height:20%;
       font-weight: lighter;
       color:olive
   }
-  .iconDetails {
+  /*.iconDetails {
     margin-left:2%;
    /*float:right; */
   height:80px;
    width:80px;
  
-   } 
+   } */
    .container2 {
     width:auto;
     height:auto;
