@@ -141,7 +141,7 @@ h5{
     text-align: center;
  }
  .intro2{
-  /*float:left;*/
+  float:left;
   padding-top:2px;
   /*margin-left:2px;*/
 }
