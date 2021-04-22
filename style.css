@@ -189,23 +189,23 @@ h3{
     font-size: 15px;
 }*/
 #class1{
-    width:20%;
+    width:10%;
     float:left;
 }
 #class2{
     float:left; 
                 
-                width:30%;
+                width:20%;
                 height:280px;
                 /*margin-left:100px;*/
 }
 #class3{
     float:right;
-    width:30%
+    width:20%
 }
 #class4{
     float:right;
-width:40%;
+width:30%;
 height:280px;
 margin-right:20px;
 }
