@@ -142,10 +142,11 @@ h5{
  }
  #intro2{
   float:left;
+  padding-top:2px;
 }
- .screen{
+/* .screen{
   margin-left:10px;
- }
+ }*/
  .screen2{
   margin-left:50px;
  }
