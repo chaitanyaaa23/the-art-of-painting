@@ -214,13 +214,13 @@ h3{
     font-size: 15px;
 }*/
 #class1{
-    width:5%;
+    width:20%;
     float:left;
 }
 #class2{
     float:left; 
                 
-                width:15%px;
+                width:40%;
                 height:280px;
                 margin-left:10px;
 }
@@ -228,7 +228,7 @@ h3{
 
 #class4{
     float:right;
-width:30px;
+width:40;
 height:280px;
 margin-right:20px;
 }
