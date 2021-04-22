@@ -1,27 +1,28 @@
-@media screen and (max-width: 1060px) {
-    #primary { width:67%; }
-    #secondary { width:30%; margin-left:3%;}  
-}
 
-/* Tabled Portrait */
-@media screen and (max-width: 768px) {
-    #primary { width:100%; }
-    #secondary { width:100%; margin:0; border:none; }
-}
-/*@media( max-width:800px;
- max-height:400px;
- max-padding-top:500px;
- max-padding-bottom:500px;
-max-margin-left:200px;
-max-margin-right:200px;
-){*/
+@media( max-width:800px) and
+ (max-height:400px)and
+ (max-padding-top:500px)and
+ (max-padding-bottom:500px)and
+(max-margin-left:200px)and
+(max-margin-right:200px)
+{
  #background{
  background-image:url("https://mymodernmet.com/wp/wp-content/uploads/2017/12/online-painting-tutorial.jpg");
   /*max-width:500px;
   min-height:500px;*/
  background-repeat:no-repeat;
  background-size:100%;
-  
+  @media (min-device-width:600px) {
+    img[data-src-600px] {
+        content: attr(data-src-600px, url);
+    }
+}
+
+@media (min-device-width:800px) {
+    img[data-src-800px] {
+        content: attr(data-src-800px, url);
+    }
+}
 }
 h1{
     text-align: center;
