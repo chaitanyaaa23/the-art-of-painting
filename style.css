@@ -20,6 +20,9 @@ h5{
     padding-bottom:200px;
     font-size:small
 }
+.screen{
+ margin-left:150px;
+}
 #intro{
     text-align: center;
 }
@@ -137,6 +140,9 @@ h5{
  #intro2{
   float:left;
 }
+ .screen{
+  margin-left:50px;
+ }
 .center {
     display: block;
     margin-left:auto;
