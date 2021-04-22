@@ -1,4 +1,5 @@
-#background{
+@media(max-width:991px){
+ #background{
  background-image:url("https://mymodernmet.com/wp/wp-content/uploads/2017/12/online-painting-tutorial.jpg");
  background-repeat:no-repeat;
  background-size:100%;
@@ -91,6 +92,7 @@ h3{
 #class3{
     float:right;
     width:30%
+}
 }
 #class4{
     float:right;
