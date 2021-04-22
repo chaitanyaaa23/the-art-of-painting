@@ -111,6 +111,9 @@ ol{
     margin-left:30px;
     
 }
+.screen2{
+ margin-right:150px;
+}
 @media screen and ( max-width:1500px){
     #background{
         background-image:url("https://mymodernmet.com/wp/wp-content/uploads/2017/12/online-painting-tutorial.jpg");
@@ -141,6 +144,9 @@ h5{
   float:left;
 }
  .screen{
+  margin-left:50px;
+ }
+ .screen2{
   margin-left:50px;
  }
 .center {
