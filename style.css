@@ -135,7 +135,7 @@ h5{
     text-align: center;
  }
  #intro2{
-  float:right;
+  float:left;
 }
 .center {
     display: block;
@@ -170,7 +170,8 @@ height:20%;
     /*text-align: center;*/
     font-weight:50;
     font-size:10px;
-    color:maroon
+    color:maroon;
+     float:left;
 }
 a:link{
     color:violet
