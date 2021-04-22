@@ -165,13 +165,13 @@ height:20%;
       font-weight: lighter;
       color:olive
   }
-  /*.iconDetails {
+  .iconDetails {
     margin-left:2%;
-   /*float:right; */
+   float:right; 
   height:80px;
    width:80px;
  
-   } */
+   } 
    .container2 {
     width:auto;
     height:auto;
