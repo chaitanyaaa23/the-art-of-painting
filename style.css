@@ -147,9 +147,12 @@ h5{
 }
  .screen{
   /*margin-left:10px;*/
+  float:left;
  }
 .screen2{
   margin-right:2px;
+ float:right;
+ }
  
 .center {
     display: block;
