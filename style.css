@@ -4,7 +4,14 @@
  (max-padding-top:500px)and
  (max-padding-bottom:500px)and
 (max-margin-left:200px)and
-(max-margin-right:200px)
+(max-margin-right:200px)and
+ ( min-width:200px) and
+ (min-height:200px)and
+ (min-padding-top:200px)and
+ (min-padding-bottom:100px)and
+(min-margin-left:100px)and
+(min-margin-right:100px)
+
 {
  #background{
  background-image:url("https://mymodernmet.com/wp/wp-content/uploads/2017/12/online-painting-tutorial.jpg");
