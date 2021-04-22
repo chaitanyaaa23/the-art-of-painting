@@ -140,7 +140,7 @@ h5{
 #intro{
     text-align: center;
  }
- #intro2{
+ .intro2{
   /*float:left;*/
   padding-top:2px;
   margin-left:2px;
