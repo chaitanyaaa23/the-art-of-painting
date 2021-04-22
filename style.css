@@ -127,6 +127,10 @@ h5{
     padding-bottom:200px;
     font-size:small
 }
+ #container1{
+  width:auto;
+  height:auto;
+ }
 #intro{
     text-align: center;
 }
