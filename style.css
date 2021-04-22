@@ -138,8 +138,8 @@ h5{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width:auto;
- height:auto;
+    width:50%;
+height:50%;
   }
   h4{
       text-align: center;
