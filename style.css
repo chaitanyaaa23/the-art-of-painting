@@ -2,7 +2,7 @@ $desktop:1200px;
 $laptop:992px;
 $tablet:768px;
 $phone:480px;
-@media screen and (max-width:$desktop) and (min-width:$phone)
+/*@media screen and (max-width:$desktop) and (min-width:$phone)*/
 {
  #background{
  background-image:url("https://mymodernmet.com/wp/wp-content/uploads/2017/12/online-painting-tutorial.jpg");
