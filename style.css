@@ -136,7 +136,7 @@ max-width:150px;
 flex:0 0 150px;
 }
 .container6 .card .imgbx .img{
-    max-width:100%; 
+    max-width:100px;; 
     }
     .container6 .card .content{
         margin-left:20px;
